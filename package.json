@@ -1,0 +1,21 @@
+{
+  "name": "lab_website",
+  "version": "1.0.0",
+  "description": "a mock lab website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.1.1",
+    "bootstrap-icons": "^1.5.0",
+    "ejs": "^3.1.6",
+    "express": "^4.17.1",
+    "fs": "^0.0.1-security",
+    "got": "^11.8.2",
+    "jsdom": "^17.0.0",
+    "path": "^0.12.7"
+  }
+}
